@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center"> Hello, Julian Corsino</h1>
+<h3 align="center">🚀 'Full Stack' Developer 🚀</h3>
 
-<!--
-**Jjcorsino/Jjcorsino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jjcorsino" alt="Jjcorsino" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Lake Analytics
+- 🌱 I’m currently learning React & Js Vanilla
+- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/julian-ismael-corsino-5a4361180/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliancorsino@gmail.com)](mailto:juliancorsino@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+----
+<h1 align="center"> Projects</h1>
+
+- [Axie infinity energy count](https://axie.energy/)
+- [React To-do](https://jjcorsino.github.io/React-To-Do/)
+- [Js To-do](https://jjcorsino.github.io/ToDoTimer/) 
+- [Rick & Morty Api](https://riick-and-morty-apii.netlify.app/)
+- [Pedcont](https://jjcorsino.github.io/Pedcont/)
+- [Lake Analytics](https://www.lake-analytics.com/)
+
+----
+
+Last Edited on: 12/06/2022
