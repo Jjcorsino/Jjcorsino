@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, Julian Corsino</h1>
+<h1 align="center"> Hello, i'm Julian Corsino</h1>
 <h3 align="center">🚀 'Full Stack' Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jjcorsino" alt="Jjcorsino" /> </p>
