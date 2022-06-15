@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, i'm Julian Corsino</h1>
+<h1 align="center"> Hello, I’m Julian Corsino</h1>
 <h3 align="center">🚀 'Full Stack' Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jjcorsino" alt="Jjcorsino" /> </p>
@@ -14,12 +14,16 @@
 ----
 <h1 align="center"> Projects</h1>
 
-- [Axie infinity energy count](https://axie.energy/)
+- [Axie infinity energy count (js)](https://axie.energy/)
 - [React To-do](https://jjcorsino.github.io/React-To-Do/)
 - [Js To-do](https://jjcorsino.github.io/ToDoTimer/) 
-- [Rick & Morty Api](https://riick-and-morty-apii.netlify.app/)
-- [Pedcont](https://jjcorsino.github.io/Pedcont/)
 - [Lake Analytics](https://www.lake-analytics.com/)
+
+On progress
+
+- [Pokedex api (react) ](https://kokemonedex-api.netlify.app/)
+- [Rick & Morty Api (react)](https://riick-and-morty-apii.netlify.app/)
+- [Pedcont](https://jjcorsino.github.io/Pedcont/)
 
 ----
 
