@@ -17,14 +17,14 @@
 
 - [Ubisoft home clone (react) ](https://ubisoftjjcorsino.netlify.app/)⬅️ Deploy | [Repo](https://github.com/Jjcorsino/UbisoftInterview)
 - [Pokedex api (react) ](https://kokemonedex-api.netlify.app/)⬅️ Deploy | [Repo](https://github.com/Jjcorsino/Pokeapi)
-- [Rick & Morty Api (react)](https://riick-and-morty-apii.netlify.app/)
+- [Rick & Morty Api (react)](https://riick-and-morty-apii.netlify.app/) ⬅️ Deploy
 - [Axie infinity energy count (js)](https://axie.energy/) ⬅️ Deploy | [Repo](https://github.com/Jjcorsino/axieEnergy-main)
-- [React To-do](https://jjcorsino.github.io/React-To-Do/) ⬅️ Deploy | [Repo build](https://github.com/Jjcorsino/React-To-Do)
-- [Js To-do](https://jjcorsino.github.io/ToDoTimer/) <-- Deploy, [Repo](https://github.com/Jjcorsino/ToDoTimer)
+- [React To-do](https://jjcorsino.github.io/React-To-Do/) ⬅️ Deploy | [Repo](https://github.com/Jjcorsino/React-To-Do)
+- [Js To-do](https://jjcorsino.github.io/ToDoTimer/) ⬅️ Deploy | [Repo](https://github.com/Jjcorsino/ToDoTimer)
 - [Pedcont](https://jjcorsino.github.io/Pedcont/)⬅️ Deploy | [Repo](https://github.com/Jjcorsino/Pedcont)
-- [Lake Analytics](https://www.lake-analytics.com/)
+- [Lake Analytics](https://www.lake-analytics.com/) ⬅️ Deploy
 
-(most recents up to down)
+<p> (most recents up to down) </p>
 ----
 
 Last Edited on: 05/07/2022
