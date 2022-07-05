@@ -24,6 +24,7 @@
 - [Pedcont](https://jjcorsino.github.io/Pedcont/)⬅️ Deploy | [Repo](https://github.com/Jjcorsino/Pedcont)
 - [Lake Analytics](https://www.lake-analytics.com/)
 
+(most recents up to down)
 ----
 
-Last Edited on: 02/07/2022
+Last Edited on: 05/07/2022
