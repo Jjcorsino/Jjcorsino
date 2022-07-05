@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently working on Lake Analytics, doing somes powerapps apps.
 - 📖 Computer Science student at UNCO
 - 🌱 I’m currently learning React & Js Vanilla
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/julian-ismael-corsino-5a4361180/) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/julian-ismael-corsino/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliancorsino@gmail.com)](mailto:juliancorsino@gmail.com)
 , [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ekko__)
 
