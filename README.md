@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I’m Julian Corsino</h1>
-<h3 align="center">🚀 'Mini-Junior Front-End Developer' 🚀</h3>
+<h3 align="center">🚀 'Junior Front-End Developer' 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jjcorsino" alt="Jjcorsino" /> </p>
 
