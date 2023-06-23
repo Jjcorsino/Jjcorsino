@@ -1,11 +1,10 @@
 <h1 align="center"> Hello, I’m Julian Corsino</h1>
-<h3 align="center">🚀 'Junior Front-End Developer' 🚀</h3>
+<h3 align="center">🚀 'Data Analyst and Software Developer' 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jjcorsino" alt="Jjcorsino" /> </p>
 
 - 👨‍💻 I’m currently working on Lake Analytics, doing somes powerapps apps.
 - 📖 Computer Science student at UNCO
-- 🌱 I’m currently learning React & Js Vanilla
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/julian-ismael-corsino/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliancorsino@gmail.com)](mailto:juliancorsino@gmail.com)
 
