@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I’m Julian Corsino</h1>
-<h3 align="center">🚀 Data Analyst and 'Software Developer' 🚀</h3>
+<h3 align="center">🚀 Microsoft Certified Data Analyst Associate and 'Software Developer' 🚀</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=Jjcorsino&style=for-the-badge)
