@@ -2,7 +2,6 @@
 <h3 align="center">🚀 Microsoft Certified Data Analyst Associate and 'Software Developer' 🚀</h3>
 
 
-![](https://komarev.com/ghpvc/?username=Jjcorsino&style=for-the-badge)
 
 - 📖 Computer Science student at UNCO
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/julian-ismael-corsino/) 
@@ -31,6 +30,9 @@ Skills Dev:
 - [Lake Analytics](https://www.lake-analytics.com/) ⬅️ Deploy
 
 <p> (most recents up to down) </p>
+
+![](https://komarev.com/ghpvc/?username=Jjcorsino&style=flat-square)
+
 ----
 
 Last Edited on: 27/11/2023
