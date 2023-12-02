@@ -17,6 +17,7 @@ Skills Dev:
 ----
 <h1 align="center">Projects</h1>
 
+- [EDA Zenless Zone Zero ](https://github.com/Jjcorsino/Zendless-Zone-Zero)
 - [EDA Genshin Impact ](https://github.com/Jjcorsino/EDA-Genshin-Impact)
 - [EDA Honkai Star Rail ](https://github.com/Jjcorsino/EDA-Honkai-Star-rail)
 - [Machine Learning Pose Estimation with Python ](https://github.com/Jjcorsino/Machine-Learning-Pose-Estimation-Left-MP)
@@ -35,4 +36,4 @@ Skills Dev:
 
 ----
 
-Last Edited on: 27/11/2023
+Last Edited on: 02/12/2023
